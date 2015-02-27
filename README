@@ -1,0 +1,17 @@
+This project wants to be a quick copypaste cookbook for Scala. It is divided into the following units:
+
+-TwitterScalaSchool: a partial walkthrough for the Twitter Scala School project ( https://twitter.github.io/scala_school/ ), partial in the sense that only the advanced stuff is covered
+
+-Indepth: code notes for J. Suereth's book Scala In Depth ( http://www.manning.com/suereth/ ); it does not follow accurately through the chapters, I dropped snippets along the way
+
+-SD: in an attack of pedantery last year I have watched all of the ScalaDays presentations, taking notes too, and this is the result; some stuff is technical and version-dependent
+
+-ReactivePrinciples: notes for the last edition of the Principles of Reactive Programming on Coursera ( https://www.coursera.org/course/reactive )
+
+-FPiS: exercises and comments for the book Functional Programming in Scala by Runar & Paul ( http://www.manning.com/bjarnason/ ); notice that my book revision is quite old
+
+The order above reflects the journey you could take in becoming a better Scala programmer, assuming you have the basic knowledge of the language. To get started the best book is the one by Martin Odersky himself, creator of the language, Programming in Scala ( http://www.artima.com/shop/programming_in_scala_2ed ); you may also want to take Functional Programming Principles in Scala on Coursera too ( https://www.coursera.org/course/progfun ).
+
+These code examples can be used forgetting about where they come from, except for FPiS maybe, where I tried to stick as much as possible to the book.
+
+Have fun() !
