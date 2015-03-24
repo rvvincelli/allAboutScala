@@ -11,5 +11,6 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-testkit" % "2.2.4",
   "org.scala-lang.modules" %% "scala-async" % "0.9.1",
   "org.scala-lang" % "scala-reflect" % "2.10.3",
-  "org.scala-lang" % "scala-compiler" % "2.10.3"
+  "org.scala-lang" % "scala-compiler" % "2.10.3",
+  "org.scalaz" %% "scalaz-core" % "7.1.1"
 )
